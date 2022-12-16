@@ -4,7 +4,16 @@
 <p>✔ 내 일은 스스로 해결해 보고 싶은 개발자입니다.</p>
 <p>✔ 개인의 역량보다 팀원과의 소통이 더 중요하다 생각하는 개발자입니다.</p>
 <hr></hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogaeng1&show_icons=true&theme=tokyonight)
+<h3>Github State</h3>
+<br></br>
+<a href="s" >
+  <img src="https://github-readme-stats.vercel.app/api?username=ogaeng1&theme=tokyonight&show_icons=true" width="450" height="200" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogaeng1&exclude_repo=ogaeng1.github.io&layout=compact&theme=tokyonight" width="450"
+  height="200" />
+</a>
+<br></br>
 <hr></hr>
 <br></br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
