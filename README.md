@@ -1,4 +1,4 @@
-### Hi there 👋
+### UX 에 관심이 많은 프론트엔드 개발자 입니다.
 
 <!--
 **ogaeng1/ogaeng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/{JavaScript}-{배경 색깔}?style={스타일}&logo={JavaScript}&logoColor={#F7DF1E}"/>
