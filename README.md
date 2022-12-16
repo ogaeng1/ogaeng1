@@ -1,17 +1,18 @@
-### UX 에 관심이 많은 프론트엔드 개발자 입니다.
+## 👋 UX에 관심이 많은 프론트엔드 개발자 입니다.
 
-<!--
-**ogaeng1/ogaeng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>✔ 꾸준함이 곧 실력이라 생각하는 개발자입니다.</p>
+<p>✔ 내 일은 스스로 해결해 보고 싶은 개발자입니다.</p>
+<p>✔ 개인의 역량보다 팀원과의 소통이 더 중요하다 생각하는 개발자입니다.</p>
+<hr></hr>
+<br></br>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/{JavaScript}-{배경 색깔}?style={스타일}&logo={JavaScript}&logoColor={#F7DF1E}"/>
