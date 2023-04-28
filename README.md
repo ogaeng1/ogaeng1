@@ -1,9 +1,6 @@
-## 👋 UX에 관심이 많은 프론트엔드 개발자 입니다.
+<h1 align="center">좋은 하루 보내세요 😊</h1>
 
-<p>✔ 꾸준함이 곧 실력이라 생각하는 개발자입니다.</p>
-<p>✔ 내 일은 스스로 해결해 보고 싶은 개발자입니다.</p>
-<p>✔ 개인의 역량보다 팀원과의 소통이 더 중요하다 생각하는 개발자입니다.</p>
-<hr></hr>
+<!-- <hr></hr>
 <h3>Github State</h3>
 <br></br>
 <a href="s" >
@@ -15,6 +12,7 @@
 </a>
 <br></br>
 <hr></hr>
+<br></br> -->
 <br></br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -28,4 +26,3 @@
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </p>
-
